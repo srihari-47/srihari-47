@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I am Harisudhan, I have ceated this github profile for my personal projects. So if interested, Please do check them out.
 <!--
 **srihari-47/srihari-47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
